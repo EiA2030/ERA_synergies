@@ -160,7 +160,7 @@ if(!dir.exists("./Plots")){
 
 
 **Minimum data requirements & outlier removal:**
-*Note that functional for practice and outcome aggregation levels is not yet fully implemented. Please retain default values in these fields*
+*Note that functional for practice and outcome aggregation levels is not yet implemented. Please retain default values in these fields*
 
 :::: {style="display: flex;"}
 ::: {}
