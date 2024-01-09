@@ -1,0 +1,30 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Peter
+  given-names: Steward
+  orcid: "0000-0003-3985-4911"
+  affiliation: "Alliance of Bioversity International and CIAT"
+- family-names: Todd
+  given-names: Rosentock
+  orcid: "0000-0002-1958-9500"
+  affiliation: "Alliance of Bioversity International and CIAT"
+title: ERA Synergies Analysis: Interactive R-markdown
+version: v1.0.1_beta
+date-released: 2023-12-04
+license: "GPL-3.0"
+doi: "10.5281/zenodo.10474808"
+keywords:
+  - "Evidence"
+  - "Resilient Agriculture"
+  - "Synergies"
+  - "Trade-offs"
+  - "Africa"
+  - "Agriculture"
+  - "Agronomy"
+  - "Productivity"
+  - "Economics"
+  - "Sustainability"
+  - "Meta-analysis"
+  - "Systematic Review"
+  - "Bundling"
